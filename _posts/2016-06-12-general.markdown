@@ -2,22 +2,13 @@
 layout: post
 title:  "通用"
 date:   2016-06-12 23:28:58 +0800
-categories: jekyll update
+categories: 
 ---
 
-今天终于开始写第一篇自己搭建的博客里的博文了。
-Jekyll also offers powerful support for code snippets:
+段首需要空两个字符。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+这是第一篇我在完完全全个人的博客上写的文章，“完完全全个人”的意思是指区别于之前在QQ空间，新浪博客，豆瓣小组以及日记网站写的一些文字，尽管这个博客也是托管在github上面再加一个自定义域名做包装，但是这两者之间的感觉区别就有点类似于我对租来的房子和买来的房子的区别，租来的公寓里面有了基本的家居配置，我付钱给别人买房子的寿命，我也知道我终会有离开的一天，可能是因为对房东不满或者工作上有了变动；但是我对买来的房子，我有的是这么大的毛坯空间，我需要装修、自定义，把自己的品味、情感、习惯和成见都放在里面，让这些成为它的一部分，尽管最后它一定会因为某种原因消失散去，就像我曾经的石子路边的海涂被填埋一样。
+但是，人说家在心中，物质世界不存在真正的家园，真正的家园是无形的、不为外人所道的、无法被摧毁的，在那里，我们才是真正的自定义，是极客。世间有太多的套路模式供选择，如果把社会看成一个大智慧体，它更多的是让我们做一个挑娃娃搭积木的乖宝宝，好好地为建设社会奉献自己生命，然而却极少关心作为个体的我们的内心，我们自己的世界只有我们自己可以去建设呵护。
+所以，上面说的“完完全全个人”其实也是一个伪命题，这些露于表象的只是我内心世界的映射，消失一个只是丢掉了一个映射关系，但是内心世界照样完满，能找到出来的路。
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+可笑的是，我没有买过房子，二十多年都是住在不是自己买来的房子里，所以关于这两类房子的类比我用到了想象的力量，我或许在互联网上看到过别人的感受差别
