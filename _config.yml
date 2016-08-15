@@ -1,9 +1,21 @@
-name: Simply Grey
+# Jekyll Defaults
+title: blueface
+description: A small and simple site I made to test out Jekyll.
+baseurl: "" # the subpath of your site, e.g. /blog
+
+url: "http://localhost:3000"
+github: http://github.com/tnguyen/blueface
+highlighter: rouge
 markdown: kramdown
-highlighter: pygments
-github: https://www.github.com/liamsymonds
-about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
-urls:
-    - text: github
-      url: https://github.com/liamsymonds
-baseurl: '/simplygrey-jekyll'
+permalink: /post/:title/
+paginate: 4
+gems: [jekyll-paginate]
+paginate_path: "/page:num"
+rss_path: /feed.xml
+navigation:
+- text: About
+  url: /about/
+- text: Archives
+  url: /archives/
+- text: Tags
+  url: /tags/

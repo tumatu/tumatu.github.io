@@ -1,37 +1,12 @@
-# Simply Grey
-Simply Grey is a nice, easy on the eyes Jekyll theme that makes great use of grey colours. 
+blueface
+=====================
 
-![Screenshot of Simply Grey](http://i.imgur.com/sKpj8Oz.png)
+![https://s3.amazonaws.com/f.cl.ly/items/0W3I0t1L0y3Y1U3k1A2N/Screen%20Shot%202016-03-23%20at%2010.45.03.png](https://s3.amazonaws.com/f.cl.ly/items/0W3I0t1L0y3Y1U3k1A2N/Screen%20Shot%202016-03-23%20at%2010.45.03.png)
 
-## Installation
-There are a few requirements to using and installing the Simply Grey theme.
+blueface is a minimalist Jekyll theme. It is responsive, generates JSON and RSS feeds on each build, and can be easily extended. It uses your system fonts alongside Open Sans, Droid Sans and Raleway from Google Fonts. Oh, and it has support for tags too.
 
-1. You must have Jekyll installed. If you have no done this, do it by executing the following code. 
-`gem install jekyll`
+[Preview the theme!](http://thien.io/blueface)
 
-2. You must have git installed. If you do not have this, install it on your system by using your package manager. For example, in Debian, type 
-`sudo apt-get install git`
+## Install
 
-Once you have done this, installation is pretty easy.
-
-Simply clone the repository
-
-`git clone https://github.com/liamsymonds/simplygrey-jekyll.git`
-
-and serve the blog up so people can see it
-
-`cd simplygrey-jekyll; jekyll serve`
-
-## Configuring SimplyGrey
-The SimplyGrey theme is actually very easy to configure.
-
-### Adding more links to the navigation bar
-1. Open the _config.yml file
-2. Add some more values to the urls hash like the others that already exist there.
-
-### Changing the site name
-1. Open the _config.yml file
-2. Change the site name
-
-### Changing the logo/picture image
-1. Drop a 75x75 image into the img directory.
+Fork, rename it to username.github.io and you're ready! (replace username with your username) Some important configuration can be done in ``_config.yml``. Do check the Setup section in that file.
