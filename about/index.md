@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Imagine
+title: About imagine
 ---
 
 Hello
