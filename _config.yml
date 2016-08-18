@@ -7,7 +7,7 @@ url: "http://localhost:3000"
 github: 
 highlighter: rouge
 markdown: kramdown
-permalink: /post/:title/
+permalink: http://imagineonline.club/post/:title/
 paginate: 4
 gems: [jekyll-paginate]
 paginate_path: "/page:num"
