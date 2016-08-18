@@ -1,7 +1,7 @@
 # Jekyll Defaults
-title: imagine
+title: Imagine
 description: A small and simple site I made to test out Jekyll.
-baseurl: "http://imagineonline.club/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "http://localhost:3000"
 github: http://github.com/tnguyen/blueface
