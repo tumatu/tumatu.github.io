@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About blueface
+title: About Imagine
 ---
 
 Hello
