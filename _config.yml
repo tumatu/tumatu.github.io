@@ -15,9 +15,9 @@ gems: [jekyll-paginate]
 paginate_path: "/page:num"
 rss_path: /feed.xml
 navigation:
-- text: 关于
+- text: About
   url: /about/
-- text: 归档
+- text: Archives
   url: /archives/
-- text: 标签
+- text: Tags
   url: /tags/
