@@ -346,6 +346,6 @@ code {
 #ds-reset .ds-powered-by {
   display: none;
 }
-#ds-thread  {padding:24px;}
-#ds-thread {background: #fffff0;}
+#ds-thread  {padding:200px;}
+#ds-thread {background: #fff000;}
 #ds-thread{ border-radius: 5px;}
