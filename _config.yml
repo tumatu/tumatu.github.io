@@ -10,7 +10,7 @@ markdown: kramdown
 permalink: /post/:title/
 paginate: 4
 gems: [jekyll-paginate]
-paginate_path: "/page:num"
+paginate_path: "blog/page:num"
 rss_path: /feed.xml
 navigation:
 - text: About
