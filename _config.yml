@@ -1,16 +1,16 @@
 # Jekyll Defaults
 title: imagine
 description: A small and simple site I made to test out Jekyll.
-baseurl: "http://imagineonline.club/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "http://localhost:3000"
-github: 
+#url: "http://localhost:3000"
+#github: 
 highlighter: rouge
 markdown: kramdown
 permalink: /post/:title/
 paginate: 4
 gems: [jekyll-paginate]
-paginate_path: "blog/page:num"
+paginate_path: "/page:num"
 rss_path: /feed.xml
 navigation:
 - text: About
