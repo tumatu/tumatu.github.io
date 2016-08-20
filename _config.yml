@@ -1,5 +1,6 @@
 # Jekyll Defaults
 username: imagine
+name: imagine
 description: imagine's blog
 title: imagine
 description: A small and simple site I made to test out Jekyll.
