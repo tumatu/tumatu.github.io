@@ -4,7 +4,7 @@ name: imagine
 description: imagine's blog
 title: imagine
 description: A small and simple site I made to test out Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "imagineonline.club" # the subpath of your site, e.g. /blog
 
 #url: "http://localhost:3000"
 #github: 
