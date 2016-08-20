@@ -18,10 +18,9 @@ rss_path: /feed.xml
 navigation:
 - text: Home
   url: /
-- text: About
-  url: /about/
 - text: Archives
   url: /archives/
 - text: Tags
   url: /tags/
-
+- text: About
+  url: /about/
