@@ -17,7 +17,7 @@ title: About imagine
 
 
 [Gmail]: zjyylhj@gmail.com
-[douban]: https://www.douban.com/people/49000384/
+[douban]: https://www.douban.com/people/imagineonline/
 
 **须知参差多态，乃是幸福的本源。——伯特兰·罗素**
 
