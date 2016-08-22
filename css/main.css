@@ -347,4 +347,4 @@ code {
 #ds-reset .ds-powered-by {
   display: none;
 }
-#ds-thread {background: #ffffff;}
+#ds-thread {width:auto;}
