@@ -344,7 +344,5 @@ code {
   -moz-transform: rotateZ(360deg);
   transform: rotateZ(360deg);
 }
-#ds-reset .ds-powered-by {
-  display: none;
-}
+
 #ds-thread {width:auto;}
