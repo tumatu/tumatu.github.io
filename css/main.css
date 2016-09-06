@@ -346,8 +346,3 @@ code {
 }
 
 #ds-thread {width:auto;}
-#ds-thread #ds-reset .ds-comment-body img {
-    max-width: 3%;
-    vertical-align: text-bottom;
-    box-shadow: none;
-}
