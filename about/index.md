@@ -14,9 +14,11 @@ Supported by:
 [Jekyll][Jekyll]
 [七牛云][qiniu]
 [多说][duoshuo]
+[百度统计][baidutongji]
 
 
 [Github]: https://github.com/tumatu/tumatu.github.io
 [Jekyll]: https://jekyllrb.com/
 [qiniu]: https://portal.qiniu.com/create
 [duoshuo]: http://duoshuo.com/
+[baidutongji]: http://tongji.baidu.com/web/21590619/overview/sole?siteId=9677926
