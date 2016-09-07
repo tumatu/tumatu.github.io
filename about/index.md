@@ -8,3 +8,13 @@ title: About imagine
 
 **取法乎上,得乎其中；取法乎中,得乎其下。**
 
+
+Supported by:
+[Github][Github]
+[Jekyll][Jekyll]
+[七牛云][qiniu]
+
+
+[Github]: https://github.com/tumatu/tumatu.github.io
+[Jekyll]: https://jekyllrb.com/
+[qiniu]: https://portal.qiniu.com/create
