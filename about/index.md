@@ -13,8 +13,10 @@ Supported by:
 [Github][Github]
 [Jekyll][Jekyll]
 [七牛云][qiniu]
+[多说][duoshuo]
 
 
 [Github]: https://github.com/tumatu/tumatu.github.io
 [Jekyll]: https://jekyllrb.com/
 [qiniu]: https://portal.qiniu.com/create
+[duoshuo]: http://duoshuo.com/
