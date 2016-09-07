@@ -3,9 +3,9 @@ layout: default
 title: About imagine
 ---
 
-![](http://od4grpdiq.bkt.clouddn.com/image/about1111.jpg)
+![](http://od4grpdiq.bkt.clouddn.com/2221.png)
 
-这就是我。
+
 
 躺是最高哲学。
 
