@@ -41,7 +41,7 @@ header {
 header h1 {
     padding-top: 1em;
     font-weight: bold;
-    font: 1em -apple-system-headline, "Droid Sans Mono", Courier, mono;
+    /*font: 1em -apple-system-headline, "Droid Sans Mono", Courier, mono;*/
     text-transform: lowercase;
     margin-left: 25px;
     padding-bottom: 2.1em;
@@ -68,7 +68,7 @@ header h1 a:hover {
 }
 nav {
     font-weight: 200;
-    font-family: -apple-system, Roboto, Helvetica, Arial;
+    /*font-family: -apple-system, Roboto, Helvetica, Arial;*/
     text-transform: uppercase;
     margin-left: -43px;
 	margin-bottom: -20px;
@@ -166,7 +166,7 @@ article {
     text-decoration: none;
 }
 .tag-header {
-    font-family: Raleway, Helvetica;
+    /*font-family: Raleway, Helvetica;*/
     text-transform: uppercase;
 }
 hr {
