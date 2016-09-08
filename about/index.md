@@ -5,22 +5,21 @@ title: About imagine
 
 ![](http://od4grpdiq.bkt.clouddn.com/2222.png)
 
-
-
 躺是最高哲学。
 
-须知参差多态，乃是幸福本源。——伯特兰·罗素
+想是最强瘾品。
 
-取法乎上,得乎其中；取法乎中,得乎其下。
+躺下、想象，世界和平。
 
+这是我的个人博客，写些个人感悟、读书笔记，以后可能会加入一些技术文章和少量的音乐推荐。慢慢拓展吧XD
 
 Supported by:
-[Github][Github]（网页托管）
-[Jekyll][Jekyll]（网页框架）
-[七牛云][qiniu]（图床）
-[多说][duoshuo]（评论框）
-[百度统计][baidutongji]（流量统计）
-[Markdown][Markdown]（博文输入）
+[Github][Github]
+[Jekyll][Jekyll]
+[七牛云][qiniu]
+[多说][duoshuo]
+[百度统计][baidutongji]
+[Markdown][Markdown]
 
 
 [Github]: https://github.com/tumatu/tumatu.github.io
