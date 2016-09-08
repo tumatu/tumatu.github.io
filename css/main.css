@@ -13,7 +13,8 @@
 }
 body {
     color: #141515;
-    font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+    font-family: -apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
+    /*font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;*/
     text-rendering: optimizeLegibility;
     overflow-y: scroll;
     overflow-x: hidden;
@@ -31,6 +32,7 @@ h6 {
 #main h4 {
     line-height: 1.6em;
 }
+/*标题字体设置*/
 header {
     padding-bottom: 20px;
     padding-top: 20px;
@@ -52,6 +54,7 @@ header h1 a {
 header h1 a:hover {
     color: #76a0dd;
 }
+/*导航条字体设置*/
 #nav_container {
     margin-left: auto;
     margin-right: auto;
