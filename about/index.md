@@ -15,11 +15,12 @@ title: About imagine
 
 
 Supported by:
-[Github][Github]
-[Jekyll][Jekyll]
-[七牛云][qiniu]
-[多说][duoshuo]
-[百度统计][baidutongji]
+[Github][Github]（网页托管）
+[Jekyll][Jekyll]（网页框架）
+[七牛云][qiniu]（图床）
+[多说][duoshuo]（评论框）
+[百度统计][baidutongji]（流量统计）
+[Markdown][Markdown]（博文输入）
 
 
 [Github]: https://github.com/tumatu/tumatu.github.io
@@ -27,3 +28,4 @@ Supported by:
 [qiniu]: https://portal.qiniu.com/create
 [duoshuo]: http://duoshuo.com/
 [baidutongji]: http://tongji.baidu.com/web/21590619/overview/sole?siteId=9677926
+[Markdown]: https://zh.wikipedia.org/wiki/Markdown
