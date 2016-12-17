@@ -16,10 +16,10 @@ title: imagine
 #  syntax_highlighter: rouge
 #  hard_wrap: false
 
-markdown: kramdown
+markdown: redcarpet
 highlighter: rouge
-kramdown:
-  input: GFM
+#kramdown:
+#  input: GFM
   
 
 permalink: /post/:title/
