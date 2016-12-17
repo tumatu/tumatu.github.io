@@ -22,6 +22,7 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge  
+  hard_wrap: true
 
 permalink: /post/:title/
 gems:
