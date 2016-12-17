@@ -10,9 +10,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #github: 
 highlighter: rouge
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 permalink: /post/:title/
 paginate: 4
-gems: [jekyll-paginate]
+gems:
+- jekyll-paginate
+- jekyll-coffeescript
 paginate_path: "/page:num"
 rss_path: /feed.xml
 navigation:
