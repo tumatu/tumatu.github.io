@@ -19,6 +19,7 @@ highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
+  hard_wrap: true
   
 
 permalink: /post/:title/
