@@ -3,8 +3,8 @@ username: imagine
 name: imagine
 description: imagine's blog
 title: imagine
-description: A small and simple site I made to test out Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
+#description: A small and simple site I made to test out Jekyll.
+#baseurl: "" # the subpath of your site, e.g. /blog
 
 #url: "http://localhost:3000"
 #github: 
@@ -16,17 +16,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #  syntax_highlighter: rouge
 #  hard_wrap: false
 
-markdown:       kramdown
-highlighter:    rouge
+markdown: kramdown
+highlighter: rouge
 kramdown:
-  input:                     GFM
+  input: GFM
   
 
 permalink: /post/:title/
-paginate: 4
 gems:
 - jekyll-paginate
-- jekyll-coffeescript
+paginate: 4
 paginate_path: "/page:num"
 rss_path: /feed.xml
 navigation:
