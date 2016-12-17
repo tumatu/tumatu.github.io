@@ -15,12 +15,13 @@ title: imagine
 #  top_levels: 1..6
 #  syntax_highlighter: rouge
 #  hard_wrap: false
+
 highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
-  hard_wrap: true
-  
+  auto_ids: true
+  syntax_highlighter: rouge  
 
 permalink: /post/:title/
 gems:
