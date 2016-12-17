@@ -15,11 +15,10 @@ title: imagine
 #  top_levels: 1..6
 #  syntax_highlighter: rouge
 #  hard_wrap: false
-
-markdown: redcarpet
 highlighter: rouge
-#kramdown:
-#  input: GFM
+markdown: kramdown
+kramdown:
+  input: GFM
   
 
 permalink: /post/:title/
