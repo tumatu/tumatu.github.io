@@ -8,10 +8,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 #url: "http://localhost:3000"
 #github: 
-highlighter: rouge
+
 markdown: kramdown
 kramdown:
   input: GFM
+  top_levels: 1..6
+  syntax_highlighter: rouge
   hard_wrap: false
 permalink: /post/:title/
 paginate: 4
